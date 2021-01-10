@@ -7,4 +7,9 @@
     <string name="menu_refresh">Atualizar Página</string>
     <string name="menu_home">Abrir Página Inicial</string>
     <string name="menu_settings">Abrir Opções</string>
+
+    <string name="no_click">Nenhum item foi Clicado</string>
+    <string name="no_url">Digite o Endreço do Web Site</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_cancel">Cancelar</string>
 </resources>
